@@ -5,8 +5,8 @@ The project consists of a color palette where you can create new colours by comb
 
 ## Screenshots
 
-![App Screenshot](<img width="831" height="410" alt="image" src="https://github.com/user-attachments/assets/34852a11-9676-4f32-9f60-775f4be730c7" />
-)
+<img width="1094" height="550" alt="ScreenShot Tool -20260428151736" src="https://github.com/user-attachments/assets/2bd0cea1-0020-4167-b286-dcaee3025f98" />
+
 
 
 ## Features
