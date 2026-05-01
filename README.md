@@ -86,3 +86,6 @@ project-name/
 Your Name - Collins Wachira - collinswachira2004@gmail.com
 
 Project Link: [https://color-palette-generator-mu-nine.vercel.app/](https://github.com/kingcollinsdev/color-palette-generator.git)
+
+## Acknowledgements
+Inspiration :- https://www.youtube.com/watch?v=kAiX0itnonM&t=13648s
